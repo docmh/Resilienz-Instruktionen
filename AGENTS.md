@@ -32,7 +32,7 @@ Questionnaires have headline, instruction, list of item cards. Each card shows t
 ## Contents of Questionnaires
 ### Resilience Forms
 Instruction (all forms):  
-“Lieber Teilnehmer, in dieser Studie soll untersucht werden, was Menschen stark macht, um ihr Leben auch in schweren Situationen erfolgreich bewältigen zu können. Bitte beantworten Sie die nun folgenden Fragen auf einer Skala von 1 = trifft nicht zu bis 5 = trifft voll zu.”
+“Lieber Teilnehmer, ...” [redacted due to copyright]
 
 Likert labels (store numeric): 1 “trifft nicht zu”, 2 “trifft selten zu”, 3 “trifft manchmal zu”, 4 “trifft häufig zu”, 5 “trifft voll zu”.
 
