@@ -38,13 +38,7 @@ Likert labels (store numeric): 1 “trifft nicht zu”, 2 “trifft selten zu”
 
 #### Resilience - Parallel Form A
 Items:
-1. Ich bin emotional sehr belastbar.
-2. Ich lasse mich nicht so schnell unterkriegen.
-3. Ich kann gut mit Druck umgehen.
-4. Ich kann gut abschalten.
-5. Viel Stress macht mir nichts aus.
-6. Auch in unerwarteten Situationen bleibe ich gelassen.
-7. Mich bringt nichts aus der Ruhe.
+[redacted due to copyright]
 
 Item ids: `starc_5_A_i`. Save item id with response.
 
